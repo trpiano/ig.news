@@ -6,16 +6,24 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "stripe": "stripe-cli/stripe.exe listen  --forward-to localhost:3000/api/webhooks",
+    "stripe login": "stripe-cli/stripe.exe login"
   },
   "dependencies": {
+    "@stripe/stripe-js": "^1.19.1",
+    "axios": "^0.22.0",
+    "faunadb": "^4.4.1",
     "next": "11.1.2",
+    "next-auth": "^3.29.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-icons": "^4.2.0",
-    "sass": "^1.42.1"
+    "sass": "^1.42.1",
+    "stripe": "^8.179.0"
   },
   "devDependencies": {
+    "@types/next-auth": "^3.15.0",
     "@types/node": "^16.10.2",
     "@types/react": "^17.0.26",
     "eslint": "7.32.0",
