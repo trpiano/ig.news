@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/timoteopiano/">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Timóteo%20Piano-%BD93EC">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Timoteo%20Piano-%BD93EC">
   </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/trpiano/ig.news?color=%BD93EC">
   <a href="https://github.com/trpiano/ig.news/commits/master">
@@ -97,6 +97,8 @@ $ cp .env.local.example .env.local
 Install the Stripe CLI client so that the WebHooks are accompanied by the application, on the link below follow the instructions for installing the client's configuration.
 
 - [Stripe CLI](https://stripe.com/docs/stripe-cli)
+
+<br />
 
 Made with 💜 by <a href="https://github.com/trpiano" target="_blank">Timoteo Reinheimer Piano</a>
 
