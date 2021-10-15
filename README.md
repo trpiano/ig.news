@@ -2,6 +2,17 @@
   <img src="/public/images/logo.svg" alt="ig.news" />
 </div>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/timoteopiano/">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Timóteo%20Piano-%BD93EC">
+  </a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/trpiano/ig.news?color=%BD93EC">
+  <a href="https://github.com/trpiano/ig.news/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/trpiano/ig.news?color=%BD93EC">
+  </a>
+  <img alt="GitHub" src="https://img.shields.io/github/license/trpiano/ig.news?color=%BD93EC">
+</p>
+
 ## About
 
 This application aims to propose a content subscription service, thus being part of the paid content and part of it free. Where the user performs social authentication with GitHub.
@@ -74,7 +85,12 @@ $ yarn start
 
 ## Environment Variables (.env)
 
+```bash
 
+# Rename the .env file like the example below
+$ cp .env.local.example .env.local
+
+```
 
 Made with 💜 by <a href="https://github.com/trpiano" target="_blank">Timoteo Reinheimer Piano</a>
 
