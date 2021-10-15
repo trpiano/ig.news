@@ -20,22 +20,22 @@ This application aims to propose a content subscription service, thus being part
 ## Screenshots
 
 <div align="center" id="top"> 
-  <img src="/public/images/img_1.png" alt="ig.news" />
+  <img src="/.github/img_1.png" alt="ig.news" />
 </div>
 <br/>
 <br/>
 <div align="center" id="top"> 
-  <img src="/public/images/img_2.png" alt="ig.news" />
+  <img src="/.github/img_2.png" alt="ig.news" />
 </div>
 <br/>
 <br/>
 <div align="center" id="top"> 
-  <img src="/public/images/img_3.png" alt="ig.news" />
+  <img src="/.github/img_3.png" alt="ig.news" />
 </div>
 <br/>
 <br/>
 <div align="center" id="top"> 
-  <img src="/public/images/img_4.png" alt="ig.news" />
+  <img src="/.github/img_4.png" alt="ig.news" />
 </div>
 
 ## Features
