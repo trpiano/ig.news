@@ -88,7 +88,7 @@ $ yarn start
 ```bash
 
 # Rename the .env file like the example below
-$ cp .env.local.example .env.local
+$ cp .env.example .env.local
 
 ```
 
