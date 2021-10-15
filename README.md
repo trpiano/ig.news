@@ -2,6 +2,9 @@
   <img src="/public/images/logo.svg" alt="ig.news" />
 </div>
 
+<br />
+<br />
+
 <p align="center">
   <a href="https://www.linkedin.com/in/timoteopiano/">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Timoteo%20Piano-%BD93EC">
