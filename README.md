@@ -92,6 +92,12 @@ $ cp .env.local.example .env.local
 
 ```
 
+## Stripe Webhook
+
+Install the Stripe CLI client so that the WebHooks are accompanied by the application, on the link below follow the instructions for installing the client's configuration.
+
+- [Stripe CLI](https://stripe.com/docs/stripe-cli)
+
 Made with 💜 by <a href="https://github.com/trpiano" target="_blank">Timoteo Reinheimer Piano</a>
 
 &#xa0;
